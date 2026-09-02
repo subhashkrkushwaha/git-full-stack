@@ -4,7 +4,7 @@ forntend and backend
 
 A fully featured backend API for a blog application. It provides user authentication, post management, comments, categories, and more. Designed with scalability, clean architecture, and security in mind.
 
-🚀 Feature
+🚀 Features
 
 🔐 User Authentication
 
